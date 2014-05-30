@@ -41,6 +41,17 @@ public class Clase7 {
                     System.out.println(oejercicio2.MediaCadena());
                     System.out.println(oejercicio2.UltimoValor());
                     System.out.println(oejercicio2.Alrevez());
+                    System.out.println(oejercicio2.Guion());
+                     System.out.println(oejercicio2.Vocales());
+                             Boolean a;
+                             if(oejercicio2.Palindromo()==true)
+                             {
+                                  System.out.println("La palabra es igual");
+                             }
+                             else
+                             {
+                                 System.out.println("La palabra no es igual al derecho") ;
+                             }
                     break;
             }
         } while (opcion <= 7);
