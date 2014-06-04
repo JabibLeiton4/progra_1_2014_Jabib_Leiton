@@ -6,6 +6,8 @@
 package clase7;
 
 import java.util.Scanner;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;
 
 /**
  *
@@ -54,7 +56,8 @@ public class Clase7 {
                              }
                     break;
             }
-        } while (opcion <= 7);
+        } while (opcion <= 2);
+
 
     }
 
