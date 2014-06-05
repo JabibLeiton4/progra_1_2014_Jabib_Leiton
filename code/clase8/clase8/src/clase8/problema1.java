@@ -71,12 +71,9 @@ public class problema1 {
         }
          for(int i=palabra2;i<ora.length();i++)
          {
-         if(ora.charAt(i)==ora)
-         {
-             palabra2=-palabra2;
-         } else {
+         
          }
-         }
+         
         
        
      return palabra2;  
