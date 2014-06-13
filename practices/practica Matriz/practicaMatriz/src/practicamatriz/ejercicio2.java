@@ -9,5 +9,6 @@ package practicamatriz;
  * @author estudiante
  */
 public class ejercicio2 {
+   
     
 }
