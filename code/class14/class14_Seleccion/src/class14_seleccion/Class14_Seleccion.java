@@ -17,7 +17,7 @@ public class Class14_Seleccion {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int[] arreglo={56,4,89,85,42};
+        int[] arreglo={56,4,89,85,42,1,2,32,3 };
         int[] arregloOrdenado;
         seleccion o=new seleccion();
       arregloOrdenado=o.OrdenS(arreglo, "A");

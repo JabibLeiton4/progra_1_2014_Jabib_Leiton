@@ -19,7 +19,7 @@ public class seleccion {
         int temporal = 0;
 
         for (indice = 0; indice < arreglo.length-1; indice++) {
-            menor = arreglo[indice];
+            menor = arreglo[indice];//indice es la pocision del arreglo
             posicion = indice;
             for (int indice2 = indice + 1; indice2 < arreglo.length; indice2++) {
                 if (arreglo[indice2] < menor) {
