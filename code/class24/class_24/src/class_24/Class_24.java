@@ -17,9 +17,9 @@ public class Class_24 {
         // TODO code application logic here
         //frmGraficos g=new frmGraficos();
         //g.setVisible(true);
-       // frmLiga oLiga=new frmLiga();
-       // oLiga.setVisible(true);
-        frmGrafico o=new frmGrafico();
-        o.setVisible(true);
+       frmLiga oLiga=new frmLiga();
+        oLiga.setVisible(true);
+        //frmGrafico o=new frmGrafico();
+       // o.setVisible(true);
     }
 }
